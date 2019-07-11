@@ -1,1 +1,1 @@
-# MK-Protection: very first version of concept for decentralized insurance platform "protchain"
+very first version of concept for decentralized insurance platform "protchain"
